@@ -40,18 +40,19 @@ This project was developed as part of **Intel Unnati Training 2025** to showcase
 ---
 
 ## 📂 Folder Structure
-├── main.py # Main app logic and routing
-├── facial_emotion.py # Facial emotion detection
-├── voice_emotion.py # Voice emotion recognition
-├── fuse.py # Combine face + voice predictions
-├── webcam_emotion_live.py # Webcam input and detection
-├── mic_record.py # Voice input and processing
-├── learning.py # OpenAI-based suggestions
-├── dashboard.py # Emotion graphs and trend visualization
-├── requirements.txt # Python dependencies
-├── models/ # Pre-trained and converted models
-├── screenshots/ # App screenshots (optional)
-└── assets/ # Icons, stylesheets, etc.
+├── main.py                 # Main app logic and routing
+├── facial_emotion.py       # Facial emotion detection
+├── voice_emotion.py        # Voice emotion recognition
+├── fuse.py                 # Combine face + voice predictions
+├── webcam_emotion_live.py  # Webcam input and live emotion detection
+├── mic_record.py           # Voice input and audio processing
+├── learning.py             # OpenAI-based adaptive learning suggestions
+├── dashboard.py            # Emotion graphs and trend visualization
+├── requirements.txt        # Python dependencies
+├── models/                 # Pre-trained and converted models
+├── screenshots/            # App screenshots (optional)
+└── assets/                 # Icons, stylesheets, and static assets
+
 
 ---
 
